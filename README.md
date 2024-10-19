@@ -2,7 +2,7 @@
 #### I am still learning JAVA
 ![I am still learning JAVA](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm currently studying Computer Science and Engineering in Varendra University.I have basic knowledge about c and c++.
 
 - 🌱 I’m currently learning JAVA 
 - ⚡ Fun fact: I'm funny😅 
