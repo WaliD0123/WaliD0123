@@ -1,6 +1,7 @@
+(https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
 ### Hi there 👋, I'm Walid
-#### I am still learning JAVA
-![I am still learning JAVA](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+#### I am still at learning phase
+![I am still learning JAVA]
 
 I'm currently studying Computer Science and Engineering in Varendra University.I have basic knowledge about c and c++.
 
